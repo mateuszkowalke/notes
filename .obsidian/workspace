@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "c01cbeb9d2c96a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "401b1ccadb14a74e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OpenOCD.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "320d0b5962bae0b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c8699f3a33644c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecbfa507b5677436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4fad2927822a6a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5326f404346260cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "080d6e5f44b41d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64d36092283c1afe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OpenOCD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13f3c986466614e5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "401b1ccadb14a74e",
+  "lastOpenFiles": [
+    "OpenOCD.md",
+    "Embedded.md",
+    "C Programming Language.md",
+    "Learning.md",
+    "Hardware interfaces.md",
+    "Notetaking.md",
+    "Galls Law.md",
+    "Tech blog.md",
+    "Universe of Discourse.md",
+    "Pi pico.md"
+  ]
+}
