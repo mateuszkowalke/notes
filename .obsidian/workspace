@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OpenOCD.md",
+            "file": "src/note-2021-12-11.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenOCD.md",
+                "file": "src/note-2021-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
-    "OpenOCD.md",
-    "Embedded.md",
-    "C Programming Language.md",
-    "Learning.md",
-    "Hardware interfaces.md",
-    "Notetaking.md",
-    "Galls Law.md",
-    "Tech blog.md",
-    "Universe of Discourse.md",
-    "Pi pico.md"
+    "src/note-2021-12-11.md",
+    "src/note-2021-10-29.md",
+    "src/note-2021-11-02.md",
+    "src/note-2021-11-17.md",
+    "src/note-2021-11-21.md",
+    "src/note-2021-12-08.md",
+    "src/note-2021-12-16.md",
+    "SSH.md",
+    "Linux.md",
+    "Learning.md"
   ]
 }

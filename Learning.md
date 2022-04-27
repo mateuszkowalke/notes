@@ -14,11 +14,11 @@ Need to keep one subject to be possible to learn without using computer (book, p
 - once rust vs go is settled -> implement document generation for falcons (serde for docx)
 - voice to text for notetaking
 - relearn python using katas and kaggle
-- linux (basic knowledge, kernel by creating drivers)
+- [[Linux]] (basic knowledge, kernel by creating drivers)
 - SQL
 
 #### List of programming languages to know:
 - TS/JS
 - C/C++/ASM
-- Rust
+- [[Rust]]
 - Python
