@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/note-2021-12-11.md",
+            "file": "CRAM-MD5.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/note-2021-12-11.md",
+                "file": "CRAM-MD5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
+    "CRAM-MD5.md",
+    "HMAC.md",
+    "MAC.md",
+    "MACimg.png",
+    "Sending e-mails with Typescript and Nodemailer.md",
+    "TypeScript.md",
+    "a4+b4+c4=d4.md",
     "src/note-2021-12-11.md",
     "src/note-2021-10-29.md",
-    "src/note-2021-11-02.md",
-    "src/note-2021-11-17.md",
-    "src/note-2021-11-21.md",
-    "src/note-2021-12-08.md",
-    "src/note-2021-12-16.md",
-    "SSH.md",
-    "Linux.md",
-    "Learning.md"
+    "src/note-2021-11-02.md"
   ]
 }
