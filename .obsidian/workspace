@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CRAM-MD5.md",
+            "file": "NestJS.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRAM-MD5.md",
+                "file": "NestJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
-    "CRAM-MD5.md",
-    "HMAC.md",
-    "MAC.md",
+    "NestJS.md",
+    "Prisma.md",
     "MACimg.png",
-    "Sending e-mails with Typescript and Nodemailer.md",
-    "TypeScript.md",
-    "a4+b4+c4=d4.md",
-    "src/note-2021-12-11.md",
-    "src/note-2021-10-29.md",
-    "src/note-2021-11-02.md"
+    "Notetaking.md",
+    "Obsidian Sync.md",
+    "OpenOCD.md",
+    "PlatformIO.md",
+    "Plan domu.md",
+    "MAC.md",
+    "List of all falcons.md"
   ]
 }
