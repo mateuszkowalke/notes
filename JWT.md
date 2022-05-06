@@ -1,11 +1,13 @@
-# Notes for 2021-11-17
+# JWT
 
-## 11:24
+Jason Web Token
 
-generating key pair for signing jwt
+### Generating keypairs for signing JWTs
 
+```bash
 ssh-keygen -t rsa -b 4096 -m PEM -f jwtRS256.key
-Don't add passphrase
 openssl rsa -in jwtRS256.key -pubout -outform PEM -out jwtRS256.key.pub
 cat jwtRS256.key
 cat jwtRS256.key.pub
+```
+Don't add passphrase to the key

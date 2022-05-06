@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NestJS.md",
+            "file": "Learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NestJS.md",
+                "file": "Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
-    "NestJS.md",
-    "Prisma.md",
-    "MACimg.png",
-    "Notetaking.md",
-    "Obsidian Sync.md",
-    "OpenOCD.md",
-    "PlatformIO.md",
-    "Plan domu.md",
-    "MAC.md",
-    "List of all falcons.md"
+    "Learning.md",
+    "Foreign Data Wrapper.md",
+    "Untitled.md",
+    "PostgreSQL.md",
+    "Tech blog.md",
+    "Blog using Hugo.md",
+    "Go.md",
+    "Books.md",
+    "Falcon management.md",
+    "Falcons.md"
   ]
 }
