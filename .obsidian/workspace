@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OpenOCD.md",
+            "file": "Galls Law.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenOCD.md",
+                "file": "Galls Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
+    "Galls Law.md",
+    "Raspberry Pi Pico.md",
     "OpenOCD.md",
     "Embedded.md",
-    "C Programming Language.md",
     "Learning.md",
+    "Templates/daily.md",
+    "C Programming Language.md",
     "Hardware interfaces.md",
     "Notetaking.md",
-    "Galls Law.md",
-    "Tech blog.md",
-    "Universe of Discourse.md",
-    "Pi pico.md"
+    "Tech blog.md"
   ]
 }
