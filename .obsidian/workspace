@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Galls Law.md",
+            "file": "Learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Galls Law.md",
+                "file": "Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
-    "Galls Law.md",
-    "Raspberry Pi Pico.md",
-    "OpenOCD.md",
-    "Embedded.md",
     "Learning.md",
-    "Templates/daily.md",
-    "C Programming Language.md",
-    "Hardware interfaces.md",
-    "Notetaking.md",
-    "Tech blog.md"
+    "Foreign Data Wrapper.md",
+    "Untitled.md",
+    "PostgreSQL.md",
+    "Tech blog.md",
+    "Blog using Hugo.md",
+    "Go.md",
+    "Books.md",
+    "Falcon management.md",
+    "Falcons.md"
   ]
 }
