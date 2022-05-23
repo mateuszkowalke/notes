@@ -3,7 +3,7 @@
 ## List of current topics:
 - math on brilliant
 - design patterns book
-- document generation for falcons -> use js library and dotx - finalize falcon manager project
+- document generation for falcons -> use fastapi + prisma on backend -> use existing django code for docx generation -> finalize falcon manager project
 
 ### 3 main categories
 
