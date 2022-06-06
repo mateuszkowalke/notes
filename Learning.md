@@ -2,8 +2,8 @@
 
 ## List of current topics:
 - math on brilliant
-- design patterns book
-- document generation for falcons -> use fastapi + prisma on backend -> use existing django code for docx generation -> finalize falcon manager project
+- raytracing in a weekend -> raytracing course from SimonDev -> C++ book
+- algorithm visualisations
 
 ### 3 main categories
 
@@ -27,14 +27,15 @@ Topics:
 - algorithms and data structures with rust on codewars,
 - linux on hack the box,
 - SQL (postgreSQL and SQLite),
-- configure arch linux + xmonad(learn some haskell).
+- operating system https://pdos.csail.mit.edu/6.828/2020/schedule.html
 
 ##### Practical Projects
 
 These involve real world applications. Things to remember are to always use most appropriate technologies.
 
 Topics:
-- falcon manager site (svelte + nestjs + postgres),
+- algorithm visualisations (using wasm and threejs),
+- falcon manager site,
 - cameras with egg recognition and live streaming,
 - lora telemetry.
 
@@ -47,5 +48,6 @@ Try the top to bottom approach to learning first. If there are any obstacles - r
 #### List of programming languages to know:
 - [[TypeScript]]
 - [[C Programming Language]]/C++/ASM
+- [[Go]]
 - [[Rust]]
 - [[Python]]
