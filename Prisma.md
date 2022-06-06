@@ -13,3 +13,15 @@ where: {
 }
 ```
 
+### Case-insensitive filtering
+
+```javascript
+const users = await prisma.user.findMany({
+  where: {
+    email: {
+      equals: 'prisma.io',
+      mode: 'insensitive', // Default value: default
+    },
+  },
+})
+```

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning.md",
+            "file": "JWT.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning.md",
+                "file": "JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
+    "JWT.md",
+    "OpenOCD.md",
+    "AWS CodeBuild.md",
+    "Socket.io.md",
     "Learning.md",
+    "Docx.md",
+    "Creational Patterns.md",
     "Foreign Data Wrapper.md",
-    "Untitled.md",
     "PostgreSQL.md",
-    "Tech blog.md",
-    "Blog using Hugo.md",
-    "Go.md",
-    "Books.md",
-    "Falcon management.md",
-    "Falcons.md"
+    "Tech blog.md"
   ]
 }
