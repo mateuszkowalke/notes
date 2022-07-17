@@ -2,7 +2,7 @@
 
 ## List of current topics:
 - math on brilliant
-- raytracing in a weekend -> raytracing course from SimonDev -> C++ book
+- raytracing in a weekend -> raytracing course from SimonDev
 - algorithm visualisations
 
 ### 3 main categories

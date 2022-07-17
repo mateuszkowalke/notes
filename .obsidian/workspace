@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JWT.md",
+            "file": "Learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWT.md",
+                "file": "Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
+    "Learning.md",
+    "Arch.md",
+    "Hardware interfaces.md",
+    "Linux.md",
+    "Missing header files.md",
+    "I3wm.md",
     "JWT.md",
     "OpenOCD.md",
     "AWS CodeBuild.md",
-    "Socket.io.md",
-    "Learning.md",
-    "Docx.md",
-    "Creational Patterns.md",
-    "Foreign Data Wrapper.md",
-    "PostgreSQL.md",
-    "Tech blog.md"
+    "Socket.io.md"
   ]
 }
