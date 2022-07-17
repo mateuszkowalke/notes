@@ -68,7 +68,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Learning.md",
+=======
+                "file": "MAC.md",
+>>>>>>> 184fb7e62ef1f667c7ab86e27e9c5977774791c3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Learning.md",
     "Arch.md",
     "Hardware interfaces.md",
@@ -107,5 +112,17 @@
     "OpenOCD.md",
     "AWS CodeBuild.md",
     "Socket.io.md"
+=======
+    "MAC.md",
+    "Pi pico.md",
+    "Embedded.md",
+    "PlatformIO.md",
+    "Grafana.md",
+    "q!.md",
+    "Builtin time functions.md",
+    "PostgreSQL.md",
+    "src/note-2021-10-26.md",
+    "Docx.md"
+>>>>>>> 184fb7e62ef1f667c7ab86e27e9c5977774791c3
   ]
 }
