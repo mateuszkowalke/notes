@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MAC.md",
+            "file": "IP Multicast.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "compi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAC.md",
+                "file": "IP Multicast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
-    "MAC.md",
+    "IP Multicast.md",
+    "IPC.md",
+    "Linux.md",
     "Pi pico.md",
     "Embedded.md",
+    "C Programming Language.md",
+    "MAC.md",
     "PlatformIO.md",
     "Grafana.md",
-    "q!.md",
-    "Builtin time functions.md",
-    "PostgreSQL.md",
-    "src/note-2021-10-26.md",
-    "Docx.md"
+    "q!.md"
   ]
 }
