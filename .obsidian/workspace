@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IP Multicast.md",
+            "file": "Learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "IP Multicast.md",
+=======
+<<<<<<< HEAD
+                "file": "Learning.md",
+=======
+                "file": "MAC.md",
+>>>>>>> 184fb7e62ef1f667c7ab86e27e9c5977774791c3
+>>>>>>> 27373f15c34e64ecfa87fa0c65ce7aed11ca2e9d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +105,40 @@
   },
   "active": "401b1ccadb14a74e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "IP Multicast.md",
     "IPC.md",
     "Linux.md",
+=======
+<<<<<<< HEAD
+    "Learning.md",
+    "Arch.md",
+    "Hardware interfaces.md",
+    "Linux.md",
+    "Missing header files.md",
+    "I3wm.md",
+    "JWT.md",
+    "OpenOCD.md",
+    "AWS CodeBuild.md",
+    "Socket.io.md"
+=======
+    "MAC.md",
+>>>>>>> 27373f15c34e64ecfa87fa0c65ce7aed11ca2e9d
     "Pi pico.md",
     "Embedded.md",
     "C Programming Language.md",
     "MAC.md",
     "PlatformIO.md",
     "Grafana.md",
+<<<<<<< HEAD
     "q!.md"
+=======
+    "q!.md",
+    "Builtin time functions.md",
+    "PostgreSQL.md",
+    "src/note-2021-10-26.md",
+    "Docx.md"
+>>>>>>> 184fb7e62ef1f667c7ab86e27e9c5977774791c3
+>>>>>>> 27373f15c34e64ecfa87fa0c65ce7aed11ca2e9d
   ]
 }
