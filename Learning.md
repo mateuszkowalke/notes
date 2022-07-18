@@ -1,6 +1,6 @@
 # Learning
 
-## List of current topics:
+### List of current topics:
 - math on brilliant
 - raytracing in a weekend -> raytracing course from SimonDev
 - algorithm visualisations

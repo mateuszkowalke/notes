@@ -7,5 +7,3 @@ Not to be confused with [[MAC address]], sometimes known as a tag, is a short pi
 - A **key generation algorithm** selects a key from the key space uniformly at random.
 - A **signing algorithm** efficiently returns a tag given the key and the message.
 - A **verifying algorithm** efficiently verifies the authenticity of the message given the key and the tag. That is, return accepted when the message and tag are not tampered with or forged, and otherwise return rejected.
-
-![[MACimg.png]]

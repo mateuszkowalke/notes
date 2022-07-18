@@ -1,2 +1,5 @@
-## [[Tech blog]]
-## [[Blog using Hugo]]
+# Pragmatic Dev
+
+### [[Tech blog]]
+
+### [[Blog using Hugo]]

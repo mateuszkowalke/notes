@@ -5,3 +5,7 @@
 ### [[Window Managers]]
 
 ### [[IPC]]
+
+### [Arch](Arch)
+
+### [Apt](Apt)

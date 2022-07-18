@@ -1,6 +1,7 @@
 # Arch
 
 ### Installation
+
 The proper way of installing depends on hardware. Make sure to use proper combination of efi/boot booting and gpt/dos partition tables.
 
 Remember to install vim and iwd (for wifi connectivity). For wifi to work correctly we have to enable three services:
